@@ -1,10 +1,7 @@
 {
   "variants": {
-    "facing=down": { "model": "rtsmod:block/obelisk" },
-    "facing=east": { "model": "rtsmod:block/obelisk" },
-    "facing=north": { "model": "rtsmod:block/obelisk" },
-    "facing=south": { "model": "rtsmod:block/obelisk" },
-    "facing=up": { "model": "rtsmod:block/obelisk" },
-    "facing=west": { "model": "rtsmod:block/obelisk" }
+    "": {
+      "model": "rtsmod:block/obelisk"
+    }
   }
 }
