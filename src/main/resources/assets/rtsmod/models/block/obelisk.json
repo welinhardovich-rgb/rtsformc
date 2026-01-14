@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "rtsmod:block/obelisk_top",
+    "side": "rtsmod:block/obelisk_side"
+  }
+}

@@ -1,0 +1,48 @@
+# gradle
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# netbeans
+/nbproject/private/
+/nb-build/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# intellij
+.idea/
+*.ipr
+*.iml
+*.iws
+*.iml
+
+# vscode
+.vscode/
+
+# os
+.DS_Store
+Thumbs.db
+
+# minecraft
+run/
+
+# logs
+*.log
+
+# fabric loader
+remappedSrc/
+
+# temporary files
+*.tmp
+*.temp
+
+# Fabric
+VERSION

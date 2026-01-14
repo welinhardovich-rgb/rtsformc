@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "rtsmod",
+  "version": "${version}",
+  "name": "RTS Mod",
+  "description": "An RTS-style mod for Minecraft Fabric 1.21.1",
+  "authors": [
+    "RTS Mod Team"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/rtsmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.rtsmod.RtsMod"
+    ]
+  },
+  "mixins": [
+    "rtsmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": ">=${minecraft_version}",
+    "fabric-api": "*"
+  }
+}

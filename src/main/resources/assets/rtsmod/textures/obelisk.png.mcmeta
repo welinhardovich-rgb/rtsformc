@@ -1,0 +1,20 @@
+{
+  "format_version": "1.1.0",
+  "rtsmod:block/obelisk_top": {
+    "textures": {
+      "particle": "rtsmod:item/obelisk",
+      "texture": "rtsmod:item/obelisk"
+    }
+  },
+  "rtsmod:block/obelisk_side": {
+    "textures": {
+      "particle": "rtsmod:item/obelisk", 
+      "texture": "rtsmod:item/obelisk"
+    }
+  },
+  "rtsmod:item/obelisk": {
+    "textures": {
+      "layer0": "rtsmod:item/obelisk"
+    }
+  }
+}
