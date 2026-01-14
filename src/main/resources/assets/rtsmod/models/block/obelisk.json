@@ -1,7 +1,6 @@
 {
-  "parent": "block/cube_column",
+  "parent": "block/cube_all",
   "textures": {
-    "end": "rtsmod:block/obelisk_top",
-    "side": "rtsmod:block/obelisk_side"
+    "all": "rtsmod:block/obelisk"
   }
 }
